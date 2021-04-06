@@ -1,0 +1,19 @@
+{
+  "Restart" : "Restart",
+  "Achievement" : "Achievement",
+  "Tip" : "Tip",
+  "Bomb" : "Bomb",
+  "RemoveAll" : "Remove all numbers",
+  "Undo" : "Undo",
+  "StartAgain" : "Start Again!",
+  "MovesOver" : "There are no moves. Add more numbers.",
+  "BonusEnd" : "Oops! Bonus is over!",
+  "WatchAdAndGetBonus" : "You can watch the ads and get this bonus.",
+  "ReloadLvlConfirm" : "Are you sure you want to reload the level?",
+  "GridClearAlert" : "the entire grid will be wiped out!",
+  "CongratsLvlEnd" : "You did it! Congratulations! That wasn't easy, was it? You get bonuses and 500 points!",
+  "WonBonus" : "You won that bonus!",
+  "Tutorial" : ["You can delete two numbers if they are the same e.g. 9 and 9, 2 and 2.", "You can also remove numbers if their sum is 10 such as 5 + 5 or 3 + 7.", "You can delete the first and the last number. If they are equal to 10 or the same.", "Shall we do it again ?)","This may not be very obvious, but you can also remove numbers if they are on the next line.","If you can't remove the numbers, add more by clicking on the plus sign below. The goal is to remove all digits!"],
+  "Confirmation" : ["Let's go!", "Easy!", "Understand!", "Ok!", "Try it!", "Ok.", "Cool!", "Yes!", "Yeeeah!", "Get!", "Get this x3!!!"],
+  "Denial" : ["Ohhh...No!", "Oops...No!"]
+}
